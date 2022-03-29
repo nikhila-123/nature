@@ -12,6 +12,13 @@
       width: 70%;
       margin: auto;
 }
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation: bounce; 
+    animation-duration: 2s; 
+  }
 #myCarousel {
 	margin-top: 70px
 }
